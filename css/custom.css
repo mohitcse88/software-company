@@ -396,7 +396,6 @@ i {
     position: relative; }
     #featureSection .img-box img {
       border-radius: 10px;
-      filter: grayscale(100%);
       transition: .4s; }
     #featureSection .img-box .img01 {
       display: block;
